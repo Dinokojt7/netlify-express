@@ -1,0 +1,1 @@
+This Express api app for the izinto backend service, is hosted on Netlify using Netlify functions. 
