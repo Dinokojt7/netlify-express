@@ -10,7 +10,7 @@ const router = express.Router();
 router.get('/', (req, res) => {
 
     res.json({
-        'New-new': 'izinto'
+        'New-new api': 'izinto'
     });
 });
 
