@@ -16,17 +16,17 @@ router.get('/', (req, res) => {
     });
 });
 
-// router.get('/recommended', (_req, res) => {
-//     res.send(importRecommended);
-// });
+router.get('/recommended', (_req, res) => {
+    res.send(importRecommended);
+});
 
 router.get('/laundry', (req, res) => {
     res.send(importLaundry); 
 });
 
-// router.get('/popular', (_req, res) => {
-//     res.send(importPopular);
-// });
+router.get('/popular', (_req, res) => {
+    res.send(importPopular);
+});
 
 app.use('/.netlify/functions/api', router);
 
