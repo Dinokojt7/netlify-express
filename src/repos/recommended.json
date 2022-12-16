@@ -1,7 +1,4 @@
 {
-    "id": "Recommended01",
-    "name": "Recommended",
-    "description": "A list of recommended stores across the izinto platform",
     "stores": [
         {
         "id": "LV01",
