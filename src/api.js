@@ -1,8 +1,8 @@
 const express = require('express');
 const serverless = require('serverless-http');
-//const importRecommended = require('./repos/recommended.json');
+const importRecommended = require('./repos/recommended.json');
 const importLaundry = require('./repos/laundry.json');
-//const importPopular = require('/repos/popular.json');
+const importPopular = require('/repos/popular.json');
 
 
 
