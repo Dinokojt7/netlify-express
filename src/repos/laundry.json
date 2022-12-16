@@ -19,6 +19,24 @@
             "time": ""
         },
         {
+            "id": 56,
+            "name": "Gym clothes",
+            "introduction": "Sneaker Bar offers Detailed Wash for strong inset stains on the sneaker. This clean includes a lace wash, mid-sole clean, upper-mid sole clean, in-sole clean, and bacteria removal. Our drivers from Izinto will collect your sneakers from your prefered location anywhere in Sandton and deliver them straigth to the nearest Sneaker Wash outlet. Please check above the Estimated Time for this service. Thank you, we look foward to bringing a superior Izinto service to your doorstep, cheers!",
+            "price": 6,
+            "createAt": "2022-02-28T13:29:14.196Z",
+            "turnaroundTime": "5hrs",
+            "img": "assets/image/gym2.jpg",
+            "location": [
+                25.2285,
+                55.3273
+            ],
+            "type": "Any item",
+            "material": "sude",
+            "provider": "Sneaker Bar",
+            "quantity": [],
+            "time": ""
+        },
+        {
             "id": 58,
             "name": "Pullover",
             "introduction": "Any small or big alteration can be handled by our qualified tailors, from shortening of trousers and skirts to major alterations on evening gowns and men’s suites. Altering garments require time, we recommend coming through and spending time with our tailors, trying on garments before any work is done. Additional fitting might be required in order to finish an alteration. Please check above the Estimated Time for this service. Thank you, we look foward to bringing a superior Izinto service to your doorstep, cheers!",
@@ -144,24 +162,7 @@
             "quantity": [],
             "time": ""
         },
-        {
-            "id": 56,
-            "name": "Gym wear",
-            "introduction": "Sneaker Bar offers Detailed Wash for strong inset stains on the sneaker. This clean includes a lace wash, mid-sole clean, upper-mid sole clean, in-sole clean, and bacteria removal. Our drivers from Izinto will collect your sneakers from your prefered location anywhere in Sandton and deliver them straigth to the nearest Sneaker Wash outlet. Please check above the Estimated Time for this service. Thank you, we look foward to bringing a superior Izinto service to your doorstep, cheers!",
-            "price": 6,
-            "createAt": "2022-02-28T13:29:14.196Z",
-            "turnaroundTime": "5hrs",
-            "img": "assets/image/gym.jpg",
-            "location": [
-                25.2285,
-                55.3273
-            ],
-            "type": "Any item",
-            "material": "sude",
-            "provider": "Sneaker Bar",
-            "quantity": [],
-            "time": ""
-        },
+        
         {
             "id": 3,
             "name": "Cap",
