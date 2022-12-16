@@ -2,12 +2,12 @@
     "Specialties": [
         {
             "id": 56,
-            "name": "Teddy",
+            "name": "Accessories",
             "introduction": "Sneaker Bar offers Detailed Wash for strong inset stains on the sneaker. This clean includes a lace wash, mid-sole clean, upper-mid sole clean, in-sole clean, and bacteria removal. Our drivers from Izinto will collect your sneakers from your prefered location anywhere in Sandton and deliver them straigth to the nearest Sneaker Wash outlet. Please check above the Estimated Time for this service. Thank you, we look foward to bringing a superior Izinto service to your doorstep, cheers!",
             "price": 16,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/teddy.jpg",
+            "img": "assets/image/access.jpg",
             "location": [
                 25.2285,
                 55.3273
