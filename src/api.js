@@ -16,9 +16,9 @@ router.get('/', (req, res) => {
     });
 });
 
-// router.get('/recommended', (_req, res) => {
-//     res.send(importRecommended);
-// });
+router.get('/recommended', (_req, res) => {
+    res.send(importRecommended);
+});
 
 router.get('/laundry', (req, res) => {
     res.send(importLaundry); 
