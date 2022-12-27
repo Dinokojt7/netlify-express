@@ -7,7 +7,7 @@
             "price": 4,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/baba.jpeg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/baba.jpeg?alt=media&token=330fd016-95ad-4efc-8b7e-4deee70a230c",
             "location": [
                 25.2285,
                 55.3273
