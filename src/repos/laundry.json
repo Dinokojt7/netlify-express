@@ -25,7 +25,7 @@
             "price": 16,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "gs://izinto-domestically.appspot.com/teddy2.jpg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/teddy2.jpg?alt=media&token=916d0a40-fa70-4499-bed4-65bba6b8cb75",
             "location": [
                 25.2285,
                 55.3273
