@@ -3,6 +3,7 @@ const serverless = require('serverless-http');
 const importRecommended = require('./repos/recommended.json');
 const importLaundry = require('./repos/laundry.json');
 const importPopular = require('/repos/popular.json');
+const importAutoComplete = require('/repo/autocomplete.json');
 
 
 
@@ -18,6 +19,10 @@ router.get('/', (req, res) => {
 
 router.get('/recommended', (_req, res) => {
     res.send(importRecommended);
+});
+
+router.get('/autocomplete', (_req, res) => {
+    res.send(importAutoComplete);
 });
 
 router.get('/laundry', (req, res) => {
