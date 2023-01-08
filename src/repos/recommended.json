@@ -15,7 +15,7 @@
                 ],
                 "type": "Detailed",
                 "material": "sude",
-                "provider": "Exclusive Dry Cleaners",
+                "provider": "assets/image/court.png",
                 "time": ""
             },
             {
@@ -32,7 +32,7 @@
                 ],
                 "type": "Detailed",
                 "material": "sude",
-                "provider": "Exclusive Dry Cleaners",
+                "provider": "assets/image/levingers.png",
                 "time": ""
             },
 
@@ -43,14 +43,14 @@
                 "price": 150,
                 "createAt": "2022-02-28T13:31:28.497Z",
                 "turnaroundTime": "5hrs",
-                "img": "assets/image/ob2.jpg",
+                "img": "assets/image/sneakerbar.jpg",
                 "location": [
                     -26.021655,
                     28.086805
                 ],
                 "type": "Detailed",
                 "material": "sude",
-                "provider": "Levingers",
+                "provider": "assets/image/sb.png",
                 "time": ""
             },
             {
@@ -67,7 +67,7 @@
                 ],
                 "type": "Detailed",
                 "material": "sude",
-                "provider": "Sneaker Bar",
+                "provider": "assets/image/offbeat.png",
                 "time": ""
             }
             
