@@ -7,7 +7,7 @@
             "price": 4,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/baba.jpg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/baba.jpeg?alt=media&token=330fd016-95ad-4efc-8b7e-4deee70a230c",
             "location": [
                 25.2285,
                 55.3273
@@ -25,7 +25,7 @@
             "price": 16,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/teddy.jpg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/teddy2.jpg?alt=media&token=916d0a40-fa70-4499-bed4-65bba6b8cb75",
             "location": [
                 25.2285,
                 55.3273
@@ -43,7 +43,7 @@
             "price": 4,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/shirt2.jpg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/shirt2.jpg?alt=media&token=db0a9369-4319-4179-8257-5239177756d9",
             "location": [
                 25.2285,
                 55.3273
@@ -62,7 +62,7 @@
             "price": 5,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/pants2.jpg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/pants2.jpg?alt=media&token=ec073603-bec1-4620-bca9-0d625e2961cb",
             "location": [
                 25.2285,
                 55.3273
@@ -80,7 +80,7 @@
             "price": 6,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/gym2.jpg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/gym2.jpg?alt=media&token=120a7563-2272-4507-809a-2d1c3280de2e",
             "location": [
                 25.2285,
                 55.3273
@@ -98,7 +98,7 @@
             "price": 16,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/access.jpg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/access.jpg?alt=media&token=9df3a66a-1de2-4727-889b-80be0148d4eb",
             "location": [
                 25.2285,
                 55.3273
@@ -116,7 +116,7 @@
             "price": 15,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/jacket2.jpg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/jacket2.jpg?alt=media&token=e808f7f1-826e-4aca-bc4c-1ea207e308c5",
             "location": [
                 -26.14742,
                 28.0435
@@ -134,7 +134,7 @@
             "price": 7,
             "createAt": "2022-02-28T13:29:14.196Z",
             "turnaroundTime": "5hrs",
-            "img": "assets/image/jersey2.jpg",
+            "img": "https://firebasestorage.googleapis.com/v0/b/izinto-domestically.appspot.com/o/jersey2.jpg?alt=media&token=42f89bc0-d60b-4266-b44b-f0c6081e071c",
             "location": [
                 -26.14742,
                 28.0435
