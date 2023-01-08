@@ -21,9 +21,6 @@ router.get('/recommended', (_req, res) => {
     res.send(importRecommended);
 });
 
-router.get('/autocomplete', (_req, res) => {
-    res.send(importAutoComplete);
-});
 
 router.get('/laundry', (req, res) => {
     res.send(importLaundry); 
