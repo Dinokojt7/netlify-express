@@ -1,7 +1,23 @@
 {
     
         "Specialties": [
-            
+            {
+                "id": 58,
+                "name": "Sneaker Laundry",
+                "introduction": "Premium sneaker cleaning service.",
+                "price": 350,
+                "createAt": "2022-02-28T13:29:14.196Z",
+                "turnaroundTime": "24hrs",
+                "img": "assets/image/courtorder1.jpg",
+                "location": [
+                    -26.14742,
+                    28.0435
+                ],
+                "type": "Detailed",
+                "material": "sude",
+                "provider": "Exclusive Dry Cleaners",
+                "time": ""
+            },
             {
                 "id": 58,
                 "name": "Alterations & Tailoring",
